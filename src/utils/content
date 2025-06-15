@@ -1,0 +1,23 @@
+export const AccordionData = [
+  {
+    title: "What is the meaning of life?",
+    content: "The meaning of life is a philosophical question that has been debated for centuries. There is no one definitive answer, but it is generally agreed that the meaning of life is to find happiness, fulfillment, and purpose."
+  },
+  {
+    title  : "How do I achieve success?",
+    content: "Success is a personal and subjective concept that can be achieved through hard work, dedication, and perseverance. It is also important to set clear goals and priorities, and to be willing to take risks and learn from failures."
+  },
+  {
+    title: "What is the key to happiness?",
+    content: "The key to happiness is a complex and multifaceted concept that can vary from person to person. However, research has shown that happiness is often linked to factors such as positive relationships, good physical and mental health, and a sense of purpose and fulfillment."
+  },
+  {
+    title: "How do I overcome obstacles?",
+    content: "Overcoming obstacles requires a combination of skills, strategies, and mindset. It is important to be resilient, adaptable, and resourceful, and to be willing to seek help and support when needed."
+  },
+  {
+    title:  "What is the importance of self-care?",
+    
+    content: "Self-care is essential for maintaining physical, emotional, and mental well-being. It involves taking care of oneself through activities such as exercise, meditation, and spending time in nature, and prioritizing one's own needs and desires."
+  }
+];
