@@ -46,6 +46,8 @@ Testimonial<br>
 <br>
 Accordion<br>
 <br>
+Form
+<br>
 Getting Started<br>
 To get started, clone this repository and run npm install to install the dependencies. Then, run npm start to start the development server.
 <br>
